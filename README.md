@@ -28,8 +28,8 @@ Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized soluti
 ### 📈 **Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lusk1nha&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusk1nha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lusk1nha&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusk1nha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150px">
 </p>
 
 ---
