@@ -25,21 +25,6 @@ Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized soluti
 
 ---
 
-### 💼 **Key Projects & Achievements**
-
-#### **AI-Powered Chatbot for Microsoft Teams**  
-- Built a Rust-based handler integrated with **GPT-4**, enabling intelligent automated responses.  
-- Reduced internal support resolution time by **30%** through NLP-driven interactions.
-
-#### **Legal Document Search System**  
-- Developed a MongoDB Atlas Search solution using **text embeddings** for fast legal Q&A retrieval.  
-- Achieved **95% accuracy** in document relevance using Rust (RIG framework).
-
-#### **Reusable Component Library**  
-- Created and published **React components** to a private NPM registry, cutting feature development time by **20%** across teams.
-
----
-
 ### 🛠️ **Technologies & Tools**
 
 #### **Frontend**  
@@ -75,5 +60,5 @@ Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized soluti
 ---
 
 ### 🤝 **Let's Collaborate!**
-- 🔍 Interested in **Next.js**, **Rust**, **AI/LLM integrations**, or **cloud-native apps**?  
+- 🔍 Interested in **Next.js**, **Nest.js** **Rust**, **AI/LLM integrations**, or **cloud-native apps**?  
 - 📫 Reach out: **lucaspedro517@gmail.com**
