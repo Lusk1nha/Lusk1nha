@@ -16,12 +16,21 @@
 ---
 
 ### 🚀 **About Me**
-I'm a **Mid-Level Full Stack Developer** with **4+ years** of experience building scalable, high-performance web applications.  
+I'm a **Full Stack Developer** with experience building scalable, high-performance web applications.  
 🔹 **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS  
 🔹 **Backend**: Node.js, Rust (Axum), RESTful APIs, MongoDB, PostgreSQL  
 🔹 **Cloud & DevOps**: Azure (Blob Storage, AI Search), AWS (Lambda, API Gateway), Docker  
 
 Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized solutions**, and creating reusable components to accelerate development workflows.
+
+---
+
+### 📈 **Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lusk1nha&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusk1nha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="200px">
+</p>
 
 ---
 
@@ -47,15 +56,6 @@ Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized soluti
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
----
-
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lusk1nha&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusk1nha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%">
-</p>
 
 ---
 
