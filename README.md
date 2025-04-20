@@ -60,5 +60,5 @@ Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized soluti
 ---
 
 ### 🤝 **Let's Collaborate!**
-- 🔍 Interested in **Next.js**, **Nest.js** **Rust**, **AI/LLM integrations**, or **cloud-native apps**?  
+- 🔍 Interested in **Typescript**, **Next.js**, **Nest.js**, **Rust**, **AI/LLM integrations**, or **cloud-native apps**?  
 - 📫 Reach out: **lucaspedro517@gmail.com**
