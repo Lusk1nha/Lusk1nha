@@ -18,7 +18,7 @@
 ### 🚀 **About Me**
 I'm a **Full Stack Developer** with experience building scalable, high-performance web applications.  
 🔹 **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS  
-🔹 **Backend**: Node.js, Rust (Axum), RESTful APIs, MongoDB, PostgreSQL  
+🔹 **Backend**: Node.js, Nest.js, Rust, RESTful APIs, MongoDB, PostgreSQL  
 🔹 **Cloud & DevOps**: Azure (Blob Storage, AI Search), AWS (Lambda, API Gateway), Docker  
 
 Passionate about **AI integrations** (LLMs like GPT-4), **cloud-optimized solutions**, and creating reusable components to accelerate development workflows.
