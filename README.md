@@ -28,7 +28,7 @@ Desenvolvedor com **4 anos de experiência** na criação de sistemas web de alt
 | Área | Tecnologias Principal |
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript (Strict), Tailwind CSS, Shadcn |
-| **Backend** | Node.js (NestJS), Rust (Axum), Python (FastAPI) |
+| **Backend** | Node.js (NestJS), Rust (Axum, FFI), Python (FastAPI) |
 | **Cloud & Infra** | Google Cloud (GCP), Azure, AWS, Docker |
 | **Inteligência Artificial** | Integração com GPT-4, Embeddings e buscas inteligentes (Atlas Search) |
 | **Arquitetura** | DDD (Domain-Driven Design), Microsserviços e Mensageria (RabbitMQ) |
