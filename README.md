@@ -28,8 +28,8 @@ Desenvolvedor com **4 anos de experiência** na criação de sistemas web de alt
 | Área | Tecnologias Principal |
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript (Strict), Tailwind CSS, Shadcn |
-| **Backend** | Node.js (NestJS), Rust (Axum, FFI), Python (FastAPI) |
-| **Cloud & Infra** | Google Cloud (GCP), Azure, AWS, Docker |
+| **Backend** | Node.js (NestJS, Fastify), Rust (Axum, FFI), Python (FastAPI) |
+| **Cloud & Infra** | Google Cloud (GCP), AWS, Docker |
 | **Inteligência Artificial** | Integração com GPT-4, Embeddings e buscas inteligentes (Atlas Search) |
 | **Arquitetura** | DDD (Domain-Driven Design), Microsserviços e Mensageria (RabbitMQ) |
 
@@ -37,7 +37,7 @@ Desenvolvedor com **4 anos de experiência** na criação de sistemas web de alt
 
 ### 🚀 Experiência e Projetos Recentes
 
-*   **Hub Brasil (Pleno):** Desenvolvimento e evolução da plataforma Workflow, aplicando DDD e utilizando NestJS, React e GCP.
+*   **Hub Brasil (Senior):** Desenvolvimento e evolução da plataforma Workflow, aplicando DDD e utilizando NestJS, React e GCP.
 *   **Class Solutions (Pleno):** Implementação de IA para automação de respostas em chatbots e criação de sistemas de busca avançada com MongoDB Atlas Search.
 *   **Desenvolvimento Desktop:** Criando o *Universal Audio Manager*, uma ferramenta de gerenciamento de áudio utilizando **Rust** e **Tauri**.
 *   **Componentização:** Criação de bibliotecas reutilizáveis publicadas em registro privado NPM para otimização de fluxos internos.
